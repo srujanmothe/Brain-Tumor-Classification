@@ -42,7 +42,8 @@ Tumors are of three types:
 - **1.Glioma** – A type of tumor that occurs in the glial cells of the brain or spine, often aggressive in nature.
 - **2.Meningioma** – A usually benign tumor that forms in the meninges, the protective layers covering the brain and spinal cord.
 - **3.Pituitary Tumor** – A growth in the pituitary gland, which can affect hormone production and various bodily functions.
-- 🚀 This project leverages Convolutional Neural Networks (CNNs) to preprocess MRI images and classify brain tumors into these categories, aiding in early diagnosis and treatment planning. 
+  
+  🚀 This project leverages Convolutional Neural Networks (CNNs) to preprocess MRI images and classify brain tumors into these categories, aiding in early diagnosis and treatment planning. 
 ---
 
 ## 🛠️ Technologies Used  
