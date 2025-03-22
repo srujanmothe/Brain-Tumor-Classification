@@ -1,7 +1,7 @@
-# Brain Tumor Detection using Deep Learning
+# Brain Tumor Classification Using Deep Learning
 
 ## 📌 Overview  
-Brain tumors are caused by the abnormal growth of cells in the brain, some of which may lead to cancer. The traditional method for detecting brain tumors involves **Magnetic Resonance Imaging (MRI)** scans, which help identify abnormal tissue growth.  
+Brain tumors result from the abnormal growth of cells in the brain, some of which may lead to cancer. The traditional method for detecting brain tumors involves **Magnetic Resonance Imaging (MRI)** scans, which help identify abnormal tissue growth.  
 
 In this project, we leverage **Deep Learning** techniques, particularly a **self-defined Convolutional Neural Network (CNN)**, to detect brain tumors from MRI images. Applying deep learning algorithms enhances **accuracy, speed, and efficiency**, assisting radiologists in making quick and precise decisions.  
 
@@ -16,7 +16,7 @@ In this project, we leverage **Deep Learning** techniques, particularly a **self
 
 ## 🔬 Methodology  
 
-### 1️⃣ Image Pre-Processing  
+### 1️⃣ Image Preprocessing  
 To improve image quality, we apply several filtering techniques:  
 ✅ **Mean Filter**  
 ✅ **Median Filter**  
@@ -37,13 +37,16 @@ To analyze key characteristics in MRI images:
 ✅ **Feature Extraction using Histogram of Oriented Gradients (HOG)**  
 
 ---
-### Types of Brain Tumors
-Tumors are of three types:
-- **1.Glioma** – A type of tumor that occurs in the glial cells of the brain or spine, often aggressive in nature.
-- **2.Meningioma** – A usually benign tumor that forms in the meninges, the protective layers covering the brain and spinal cord.
-- **3.Pituitary Tumor** – A growth in the pituitary gland, which can affect hormone production and various bodily functions.
-  
-  🚀 This project leverages Convolutional Neural Networks (CNNs) to preprocess MRI images and classify brain tumors into these categories, aiding in early diagnosis and treatment planning. 
+
+## 🧠 Types of Brain Tumors  
+Brain tumors can be classified into three main types:  
+
+1. **Glioma** – A tumor that occurs in the glial cells of the brain or spine, often aggressive in nature.  
+2. **Meningioma** – A usually benign tumor that forms in the meninges, the protective layers covering the brain and spinal cord.  
+3. **Pituitary Tumor** – A growth in the pituitary gland, which can affect hormone production and various bodily functions.  
+
+🚀 This project leverages **Convolutional Neural Networks (CNNs)** to preprocess MRI images and classify brain tumors into these categories, aiding in early diagnosis and treatment planning.  
+
 ---
 
 ## 🛠️ Technologies Used  
