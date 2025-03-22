@@ -50,7 +50,3 @@ To analyze key characteristics in MRI images:
 
 ## 🎯 Results  
 The proposed **CNN-based model** successfully detects the presence of brain tumors with **high accuracy**. The results demonstrate that deep learning can be an effective tool in medical imaging for early diagnosis, reducing dependency on manual assessment.  
-
----
-
-## 📂 Project Structure  
